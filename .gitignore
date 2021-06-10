@@ -1,0 +1,20 @@
+# Client
+/Client/bin
+/Client/obj
+
+# Server
+/Server/bin
+/Server/obj
+/Server/Properties
+
+# Shared
+Shared/bin
+Shared/obj
+
+# Tests
+/Tests/*Server.Tests/.vscode
+/Tests/*Server.Tests/bin
+/Tests/*Server.Tests/obj
+/Tests/*Client.Tests/.vscode
+/Tests/*Client.Tests/bin
+/Tests/*Client.Tests/obj
